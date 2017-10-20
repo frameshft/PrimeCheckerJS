@@ -44,7 +44,7 @@ function millerTest(num, d, r) {
             return true;
         r--;
     }
-    return false;
+    return true;
 }
 
 function checkPrime() {
